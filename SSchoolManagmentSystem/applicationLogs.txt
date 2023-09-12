@@ -1,0 +1,43 @@
+Person logged in Mehi MeR  Time 2023-09-10T17:10:00.949299500
+Person logged in Mehi MeR  Time 2023-09-10T17:12:14.828775500
+Person logged in Mehi MeR  Time 2023-09-10T17:16:09.643517600
+Person logged in Teacher Teacher  Time 2023-09-10T17:41:05.054725600
+Person logged in Mehi MeR  Time 2023-09-10T17:42:41.864953
+Person logged in Mehi MeR  Time 2023-09-10T17:46:48.351667700
+Person logged in Mehi MeR  Time 2023-09-10T17:50:36.817967600
+Person logged in Mehi MeR  Time 2023-09-10T18:00:18.640300200
+Person deleted with this id 3 Student Student Time : 2023-09-10T18:00:44.252997900
+Person logged in Mehi MeR  Time 2023-09-10T18:02:25.337754800
+Person deleted with this id 3 Student Student Time : 2023-09-10T18:02:37.254855300
+Person logged in Mehi MeR  Time 2023-09-10T18:04:15.509682500
+Person deleted with this id 3 Student Student Time : 2023-09-10T18:04:34.012664200
+Person logged in Teacher Teacher  Time 2023-09-11T11:37:12.371630300
+Person logged in Teacher Teacher  Time 2023-09-11T11:40:29.963691600
+Student Studentadded new class 11A Time : 2023-09-11T11:41:35.861353700
+Person logged in Teacher Teacher  Time 2023-09-11T11:53:38.258760100
+Student Student added new class 11A Time : 2023-09-11T11:54:14.672248900
+Person logged in Teacher Teacher  Time 2023-09-11T11:56:20.215373
+Student Student added new class 11A Time : 2023-09-11T11:56:30.769807100
+Student Student added new class 10A Time : 2023-09-11T11:56:42.920024300
+Person logged in Mehi MeR  Time 2023-09-11T15:47:21.239730200
+Person logged in Mehi MeR  Time 2023-09-11T16:08:47.245069900
+Person logged in Mehi MeR  Time 2023-09-11T16:10:41.939978100
+Person logged in Teacher Teacher  Time 2023-09-11T16:11:14.313206400
+Student Student added new class 11A Time : 2023-09-11T16:11:40.262036500
+Student Student added new class 10A Time : 2023-09-11T16:11:49.998472700
+Person logged in Teacher Teacher  Time 2023-09-11T16:12:10.270835700
+Person logged in Teacher Teacher  Time 2023-09-11T16:13:49.650877900
+Person logged in Mehi MeR  Time 2023-09-11T16:16:53.669329700
+Person logged in Teacher Teacher  Time 2023-09-11T16:17:27.040446700
+Person logged in Mehi MeR  Time 2023-09-11T18:49:49.224997400
+Person deleted with this id 3 Student Student Time : 2023-09-11T18:50:14.025568200 by: Mehi
+Person deleted with this id 2 Teacher Teacher Time : 2023-09-11T18:50:24.719642700 by: Mehi
+Person logged in Mehi MeR  Time 2023-09-11T19:12:46.298918900
+Person logged in Mehi MeR  Time 2023-09-11T19:13:49.259351900
+Person logged in Teacher Teacher  Time 2023-09-11T19:14:18.516434400
+Student Student added new class 10A Time : 2023-09-11T19:14:38.462732200
+Person logged in Mehi MeR  Time 2023-09-11T19:15:58.762300500
+New Teacher added with 3 TeaTec1403 Time : 2023-09-11T19:17:01.758842900
+New Student added Student  Studentov Time : 2023-09-11T19:18:30.428696100
+Person logged in Teacher2 Techerov  Time 2023-09-11T19:19:01.294457
+Student Student added new class 11A Time : 2023-09-11T19:19:14.815039200
